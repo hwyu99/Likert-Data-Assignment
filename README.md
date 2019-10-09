@@ -16,6 +16,9 @@ Q7. On the whole, I am satisfied with myself.
 Q8. I wish I could have more respect for myself.  
 Q9. I certainly feel useless at times.  
 Q10. At times I think I am no good at all.  
+All above questions have been answer by visualization in assignment pdf file.
+Sample plot
+<img src="https://github.com/hwyu99/Likert-Data-Assignment/blob/master/Q6.png" height="200" width="350" />
 
 ## Library  
 library(dplyr)  
