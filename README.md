@@ -1,4 +1,4 @@
-# Likert-Data-Assignment-
+# Likert-Data-Assignment
 
 ## Intro
 Analytics: Big Data to Information course assignment  
